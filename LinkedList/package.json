@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --experimental-modules --es-module-specifier-resolution=node main.js"
+}
+  
+}
+
